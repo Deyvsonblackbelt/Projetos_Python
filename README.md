@@ -1,2 +1,2 @@
 # Projetos_Python
- Diversos projetos simples em Python!
+ Diversos projetos simples e didáticos em Python com comentários fornecendo instruções!
